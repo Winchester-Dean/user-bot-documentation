@@ -21,3 +21,4 @@
 <p><strong>4. Be sure to inherit the class "<code>TGCLIENT</code>" imported from folder "<code>tgclient.py</code>" which is located in the root directory user bot.</strong></p>
 <p><strong>5. You can optionally write documentation for the class (optional).</strong></p>
 <p><strong>6. The main user bot code should be in the function "<code>start</code>".</strong></p>
+<p>Before writing a module, I recommend looking at already written modules in the code.</>
