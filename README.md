@@ -14,3 +14,10 @@
 <p>I recommend entering commands before using the bot <code>.help</code></p>
 
 <h2>Modules</h2>
+<p>If you are a programmer and want to write a module for a user bot then follow the rules below:</p>
+<p><strong>1. The module file must be in the folder "<code>modules</code>".</strong></p>
+<p><strong>2. Module file name must begin "<code>_</code>".</strong></p>
+<p><strong>3. Module class name must end with "<code>Module</code>".</strong></p>
+<p><strong>4. Be sure to inherit the class "<code>TGCLIENT</code>" imported from folder "<code>tgclient.py</code>" which is located in the root directory user bot.</strong></p>
+<p><strong>5. You can optionally write documentation for the class (optional).</strong></p>
+<p><strong>6. The main user bot code should be in the function "<code>start</code>".</strong></p>
